@@ -1,0 +1,24 @@
+{
+  "name": "code-challenge",
+  "version": "1.0.0",
+  "description": "Code challenge solutions from sites such as Codility, Hacker-Rank & LeetCode.",
+  "main": "node/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nimahashemi/Code-Challenge.git"
+  },
+  "keywords": [
+    "Code-Challenge",
+    "NodeJS",
+    "JavaScript"
+  ],
+  "author": "Nima Hashemi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nimahashemi/Code-Challenge/issues"
+  },
+  "homepage": "https://github.com/nimahashemi/Code-Challenge#readme"
+}
