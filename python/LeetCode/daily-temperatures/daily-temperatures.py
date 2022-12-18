@@ -1,3 +1,6 @@
+from typing import List
+
+
 def dailyTemperatures(self, temperatures: List[int]) -> List[int]:
     temps = dict()
 
